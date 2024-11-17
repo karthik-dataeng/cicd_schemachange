@@ -1,0 +1,1 @@
+create table my_table(name varchar(5));
